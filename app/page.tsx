@@ -15,7 +15,7 @@ export default function Home() {
                 VIRTUAL MUSEUM OF <span className="text-red-600">UNFINISHED DREAMS</span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 font-mono">
-                A collection of abandoned, incomplete, and failed projects that could have been.
+                A collection of abandoned, incomplete, and failed projects that could have been a masterpiece
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button
@@ -75,7 +75,7 @@ export default function Home() {
             <div>
               <h2 className="text-5xl font-black uppercase mb-6">ABOUT THE MUSEUM</h2>
               <p className="text-xl font-mono mb-4">
-                The Virtual Museum of Unfinished Dreams is a digital archive of projects that never reached completion.
+                The Virtual Museum of Unfinished Dreams is a digital archive of Unfinished masterpieces.
               </p>
               <p className="text-xl font-mono mb-4">
                 Every abandoned startup, unfinished artwork, or incomplete code repository tells a story of what could
@@ -89,7 +89,7 @@ export default function Home() {
             <div className="bg-white border-8 border-black p-8">
               <h3 className="text-3xl font-black mb-4 uppercase">SUBMIT YOUR UNFINISHED DREAM</h3>
               <p className="text-lg font-mono mb-6">
-                Do you have an abandoned project gathering dust? Share it with the world and preserve its memory.
+                Do you have an abandoned project gathering dust? Share it with the others and let it be an inspiration for others.
               </p>
               <Button
                 asChild
